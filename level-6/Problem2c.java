@@ -1,4 +1,4 @@
-public class Test {
+public class Problem2c {
     public static void main(String[] args) {
         int numRows = 4;
 
